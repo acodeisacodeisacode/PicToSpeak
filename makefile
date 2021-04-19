@@ -1,6 +1,6 @@
 PYTHON = python3
 setup:
-	pip install pydub
+	pip install gtts
 run:
 	${PYTHON} speak.python3
 
